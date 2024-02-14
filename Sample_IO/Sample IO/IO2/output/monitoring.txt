@@ -1,0 +1,180 @@
+Game Grid:
+
++ + - T W S D T W S 
+S W T D S W - + | T 
+D \ S T W + D T W S 
+S W + D S W T S D T 
+W D - - D D S T T S 
+D D S T D S D T | S 
+S W T D / W T T D T 
+| D S / D D S W T S 
+- D / T W S D T W S 
++ D S T W S D T W S 
+
+Select coordinate or enter E to end the game: 0 0
+
+      T W S D T W S 
+S W T D S W - + | T 
+D \ S T W + D T W S 
+S W + D S W T S D T 
+W D - - D D S T T S 
+D D S T D S D T | S 
+S W T D / W T T D T 
+| D S / D D S W T S 
+- D / T W S D T W S 
++ D S T W S D T W S 
+
+Score: 60 points
+
+Select coordinate or enter E to end the game: 2 1
+
+        W S D T W S 
+S     T S W - + | T 
+D W T D W + D T W S 
+S W S T S W T S D T 
+W D - D D D S T T S 
+D D S T D S D T | S 
+S W T D / W T T D T 
+| D S / D D S W T S 
+- D / T W S D T W S 
++ D S T W S D T W S 
+
+Score: 60 points
+
+Select coordinate or enter E to end the game: 1 6
+
+        W S       S 
+S     T S W D T W T 
+D W T D W + D T W S 
+S W S T S W T S D T 
+W D - D D D S T T S 
+D D S T D S D T | S 
+S W T D / W T T D T 
+| D S / D D S W T S 
+- D / T W S D T W S 
++ D S T W S D T W S 
+
+Score: 60 points
+
+Select coordinate or enter E to end the game: 0 4
+
+          S       S 
+S     T   W D T W T 
+D W T D   + D T W S 
+S W S T S W T S D T 
+W D - D D D S T T S 
+D D S T D S D T | S 
+S W T D / W T T D T 
+| D S / D D S W T S 
+- D / T W S D T W S 
++ D S T W S D T W S 
+
+Score: 35 points
+
+Select coordinate or enter E to end the game: 4 0
+
+          S       S 
+      T   W D T W T 
+S     D   + D T W S 
+D W S T S W T S D T 
+S D - D D D S T T S 
+D D S T D S D T | S 
+S W T D / W T T D T 
+| D S / D D S W T S 
+- D / T W S D T W S 
++ D S T W S D T W S 
+
+Score: 35 points
+
+Select coordinate or enter E to end the game: 9 0
+
+          S       S 
+      T   W D T W T 
+      D   + D T W S 
+  W S T S W T S D T 
+  D - D D D S T T S 
+S D S T D S D T | S 
+D W T D / W T T D T 
+S D S / D D S W T S 
+D D / T W S D T W S 
+S D S T W S D T W S 
+
+Score: 60 points
+
+Select coordinate or enter E to end the game: 8 2
+
+          S       S 
+          W D T W T 
+      T   + D T W S 
+  W   D   W T S D T 
+  D S T S D S T T S 
+S D - D D S D T | S 
+D W S T D W T T D T 
+S D T D D D S W T S 
+D D S T W S D T W S 
+S D S T W S D T W S 
+
+Score: 60 points
+
+Select coordinate or enter E to end the game: 0 2
+
+Please enter a valid coordinate
+
+Select coordinate or enter E to end the game: 15 20
+
+Please enter a valid coordinate
+
+Select coordinate or enter E to end the game: 7 7
+
+          S       S 
+          W D   W T 
+      T   + D   W S 
+  W   D   W T   D T 
+  D S T S D S T T S 
+S D - D D S D T | S 
+D W S T D W T S D T 
+S D T D D D S T T S 
+D D S T W S D T W S 
+S D S T W S D T W S 
+
+Score: 40 points
+
+Select coordinate or enter E to end the game: 9 7
+
+          S       S 
+          W D   W T 
+      T   + D   W S 
+  W   D   W T   D T 
+  D S T S D S   T S 
+S D - D D S D   | S 
+D W S T D W T   D T 
+S D T D D D S T T S 
+D D S T W S D T W S 
+S D S T W S D S W S 
+
+Score: 45 points
+
+Select coordinate or enter E to end the game: 6 4
+
+                  S 
+          S     W T 
+      T   W D   W S 
+  W   D   + D   D T 
+  D S T   W T   T S 
+S D - D S D S   | S 
+D W S T D S D   D T 
+S D T D D W T T T S 
+D D S T W S S T W S 
+S D S T W S D S W S 
+
+Score: 90 points
+
+Select coordinate or enter E to end the game: E
+
+Total score: 545 points
+
+Enter name: Ahmet
+
+Your rank is 1/6 your score is 420 points higher than John
+
+Good Bye!
